@@ -1,0 +1,7 @@
+[
+  "test_division_func.py::test_division_good[10-2-5]",
+  "test_division_func.py::test_division_good[20-10-2]",
+  "test_division_func.py::test_division_good[30--3--10]",
+  "test_division_func.py::test_division_good[5-2-2.5]",
+  "test_division_func.py::test_zero_division"
+]
