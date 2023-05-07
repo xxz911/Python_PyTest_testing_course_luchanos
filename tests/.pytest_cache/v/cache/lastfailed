@@ -1,3 +1,5 @@
 {
-  "test_division_func.py": true
+  "test_division_func.py": true,
+  "test_calculator.py": true,
+  "test_calculator.py::test_simple_calculator_with_deco[1--5-+-4]": true
 }
